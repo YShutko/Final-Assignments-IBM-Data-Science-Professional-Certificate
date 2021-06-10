@@ -1,2 +1,2 @@
 # Final-Assignments-IBM-Data-Science-Professional-Certificate
-Final Assignments for BM Data Science Professional Certificate courses
+Final Assignments for IBM Data Science Professional Certificate courses
